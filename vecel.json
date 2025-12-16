@@ -1,3 +1,7 @@
+# version_check.py
+import sys
+print("Python version:", sys.version)
+
 {
     "version": 2,
     "builds": [
